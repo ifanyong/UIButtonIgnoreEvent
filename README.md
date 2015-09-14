@@ -1,0 +1,2 @@
+# UIButtonIgnoreEvent
+button避免多次连续点击造成多次执行事件
